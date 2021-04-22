@@ -1,4 +1,7 @@
-### Hi there 👋
+:dancer: Hi! I'm Lakeisha! :dancer:
+
+:school: Former elementary school teacher
+
 
 <!--
 **LakeishaMcCree/LakeishaMcCree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
