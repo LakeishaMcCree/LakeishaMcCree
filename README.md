@@ -3,10 +3,19 @@
 :school: Former elementary school teacher
 
 
-:calling: Currently learning Kotlin to become an Android Developer
+:seedling: Jr. Software Engineer
 
 
 :computer: I am also working on updating my web apps built during my bootcamp
+
+
+:books: Currently reading about Kotlin to learn about Android Development
+
+
+
+
+
+
 
 
 <!--
