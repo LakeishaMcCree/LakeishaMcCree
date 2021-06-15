@@ -3,7 +3,7 @@
 :school: Former elementary school teacher
 
 
-:seedling: Jr. Software Engineer
+:seedling: Software Engineer
 
 
 :computer: I am also working on updating my web apps built during my bootcamp
