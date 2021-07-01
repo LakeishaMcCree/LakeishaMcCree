@@ -9,7 +9,7 @@
 :computer: I am also working on updating my web apps built during my bootcamp
 
 
-:books: Currently reading Kotlin docs to learn about Android Development
+:books: Currently building apps in Kotlin while learning Android Development and Android Studio
 
 :aquarius: I consider myself a hardworking individual, committed to "lifelong learning".  I am an easy-going, forward-thinking woman with a creative mindset. I bring my collaborative, communicative, and flexible skillset to any work environment. 
 
